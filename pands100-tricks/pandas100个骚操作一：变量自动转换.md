@@ -2,7 +2,7 @@
 
 本篇是pandas100个骚操作的第一篇：**object类型自动转换**
 
-完整系列可跟踪本项目或者同步更新的公众号专栏： [pandas100个骚操作](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzODYwMDAzNA==&action=getalbum&album_id=1699019347278561282#wechat_redirect)
+完整系列可跟踪本项目，或者关注东哥的公众号专栏： [pandas100个骚操作](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzODYwMDAzNA==&action=getalbum&album_id=1699019347278561282#wechat_redirect)
 
 ---
 
@@ -121,8 +121,6 @@ dtype: string
 
 如果未来增加了新类型，`convert_dtypes`方法也会同步更新，并支持新的变量类型。
 
-
-
-
+欢迎关注我的原创公众号：**Python数据科学**
 
 
