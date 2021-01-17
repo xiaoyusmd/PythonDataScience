@@ -124,7 +124,7 @@ dtype: string
 ---
 
 <div align=center>
-<p>欢迎关注我的原创公众号：**[Python数据科学](https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw)**</p>
+<p>欢迎关注我的原创公众号：<a href="https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw">Python数据科学</a></p>
 </div>
 
 <div align=center>
@@ -132,6 +132,6 @@ dtype: string
 </div>
 
 <div align=center>
-<p>公众号回复:<font color="red">666</font>,获取100G学习资料</p>
+<p>公众号回复：<font color="red">666</font>，获取100G学习资料</p>
 </div>
 
