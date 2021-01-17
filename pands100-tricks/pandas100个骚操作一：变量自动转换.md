@@ -121,6 +121,8 @@ dtype: string
 
 如果未来增加了新类型，`convert_dtypes`方法也会同步更新，并支持新的变量类型。
 
+---
+
 欢迎关注我的原创公众号：**Python数据科学**
 
 <div align=center>
@@ -128,6 +130,6 @@ dtype: string
 </div>
 
 <div align=center>
-<p>公众号回复：666，获取100G学习资料</p>
+<p>公众号回复：<font color="red">666</font>，获取100G学习资料</p>
 </div>
 
