@@ -2,6 +2,10 @@
 
 本篇是pandas100个骚操作的第一篇：**object类型自动转换**
 
+完整系列可跟踪本项目或者同步更新的公众号专栏： [pandas100个骚操作](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzODYwMDAzNA==&action=getalbum&album_id=1699019347278561282#wechat_redirect)
+
+---
+
 在用pandas进行数据清洗的过程中，变量的类型转换是一个必然会遇到的步骤。清洗初期查看`dtypes`经常出现`object`类型，但其实变量本身可能就是个字符串，或者是数字（但因存在空值，导致出现了`object`类型）。
 
 通常大家所熟知的方法是使用`astype`进行类型转换，或者自己利用`astype`造个轮子，写个函数方法实现自动转换类型。
