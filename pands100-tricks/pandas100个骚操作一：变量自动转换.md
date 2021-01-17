@@ -123,13 +123,15 @@ dtype: string
 
 ---
 
-欢迎关注我的原创公众号：**Python数据科学**
+<div align=center>
+<p>欢迎关注我的原创公众号：**[Python数据科学](https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw)**</p>
+</div>
 
 <div align=center>
 <img src="https://github.com/xiaoyusmd/PythonDataScience/blob/main/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?raw=true" width="300" height="300" />
 </div>
 
 <div align=center>
-<p>公众号回复：<font color="red">666</font>，获取100G学习资料</p>
+<p>公众号回复:<font color="red">666</font>,获取100G学习资料</p>
 </div>
 
