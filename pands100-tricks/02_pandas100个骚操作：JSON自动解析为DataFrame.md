@@ -10,6 +10,7 @@
 ```python
 df = pd.DataFrame.from_records（results [“ issues”]，columns = [“ key”，“ fields”]）
 ```
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/NOM5HN2icXzxuqckUGfvF4zGQ4Z1FofKWGeO2VBzJVJouKBRIf2lNWfU1M1icYzx7zXLNDtaiatJYS8AfHibTx6iaFQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 >说明：这里results是一个大的字典，issues是results其中的一个键，issues的值为一个嵌套JSON对象字典的列表，后面会看到JSON嵌套结构。
 
