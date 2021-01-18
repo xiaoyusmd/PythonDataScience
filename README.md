@@ -7,7 +7,7 @@
 下面是东哥的公众号：[Python数据科学](https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw)，与这个项目同名，原创的系列文章将会同步更新，包含了Python数据科学相关的各种方向，有 **pandas、Numpy、Matplotlib等用法和骚操作，机器学习理论、数据科学实战项目、面经汇总、最新行业资讯**等等，目前也有10万+的爱好者关注。
 
 <div align=center>
-<img src="https://github.com/xiaoyusmd/PythonDataScience/blob/main/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?raw=true" width="200" height="200" />
+<img src="http://www.datadeepin.com/wp-content/uploads/2020/10/2020100710282219.jpg" width="200" height="200" />
 </div>
 
 下面，就和东哥一起开启Python数据科学的学习之旅吧！
