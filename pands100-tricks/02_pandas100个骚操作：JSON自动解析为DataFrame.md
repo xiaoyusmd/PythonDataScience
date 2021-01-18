@@ -10,7 +10,7 @@
 ```python
 df = pd.DataFrame.from_records（results [“ issues”]，columns = [“ key”，“ fields”]）
 ```
-![1](https://mmbiz.qpic.cn/sz_mmbiz_png/NOM5HN2icXzxuqckUGfvF4zGQ4Z1FofKWGeO2VBzJVJouKBRIf2lNWfU1M1icYzx7zXLNDtaiatJYS8AfHibTx6iaFQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/NOM5HN2icXzxuqckUGfvF4zGQ4Z1FofKWGeO2VBzJVJouKBRIf2lNWfU1M1icYzx7zXLNDtaiatJYS8AfHibTx6iaFQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 >说明：这里results是一个大的字典，issues是results其中的一个键，issues的值为一个嵌套JSON对象字典的列表，后面会看到JSON嵌套结构。
 
@@ -18,9 +18,11 @@ df = pd.DataFrame.from_records（results [“ issues”]，columns = [“ key”
 
 嵌套的`JSON`结构张成这样的。
 
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/NOM5HN2icXzxuqckUGfvF4zGQ4Z1FofKWGBm6dJWBzHdKfNEicicW43GIh9Gz4fR1C5HP7SUcxBp6MiaHI9ibNibBW2w/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 而我们想要的是下面这样的。
 
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/NOM5HN2icXzxuqckUGfvF4zGQ4Z1FofKWsQVbob0fgQCYkBFzsrH0IsuZ2DiaNJc0tPP75kaVVYLEicghQnjKuX0A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 下面以一个API返回的数据为例，API通常包含有关字段的元数据。假设下面这些是我们想要的字段。
@@ -84,7 +86,7 @@ df = (
     .merge(df, left_index=True, right_index = True)
 )
 ```
-
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/NOM5HN2icXzxuSoxxAbkwVmutpCVuOMCHCVVd5czNmBibo4YtNNhXiasqFSP6AS5WZPHFc9U39nBh9IP0Yk7PAsrw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 从上表看出，只有summary是可用的，issuetype、status等仍然埋在嵌套对象中。
 
@@ -98,6 +100,7 @@ df_issue_type = (
 )
 df = df.assign(issue_type_name = df_issue_type)
 ```
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/NOM5HN2icXzxuSoxxAbkwVmutpCVuOMCHlDwp983Yb0krBJcflE1PdpVZbPheM1uvGEy72aBVWaicib7Krmt6pmwg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 像上面这样，如果嵌套层级特别多，就需要自己手撸一个递归来实现了，因为每层嵌套都需要调用一个像上面解析并添加到新列的方法。
 
@@ -124,7 +127,7 @@ FIELDS = ["key", "fields.summary", "fields.issuetype.name", "fields.status.name"
 df = pd.json_normalize(results["issues"])
 df[FIELDS]
 ```
-
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/NOM5HN2icXzxuSoxxAbkwVmutpCVuOMCHlibbN3Q3ecrTXrz9vLib4valAEaASz4ZvBFibLeBDbkjeCnIJGtU361pA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 没错，就这么简单。
 
