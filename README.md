@@ -5,12 +5,6 @@
 
 原创文章每周最少一篇，后续最新文章会在【[Python数据科学](https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw) 】首发，大家可以加我【[微信](http://www.datadeepin.com/wp-content/uploads/2021/10/2021100816284068.png)】进交流群，技术交流或提意见都可以，欢迎Star！
 
-img{
-    padding-left:0;
-    vertical-align:middle;
-    display:inline-block;
-    float: none;}
-
 <div align="center"><img src="http://www.datadeepin.com/wp-content/uploads/2020/10/2020100710282219.jpg" width="150" height="150"></div>
 
 <div align="center">
