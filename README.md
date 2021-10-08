@@ -7,6 +7,7 @@
 
 <div align="center"><img src="http://www.datadeepin.com/wp-content/uploads/2020/10/2020100710282219.jpg" width="150" height="150"></div>
 
+https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6-orange
 
 ## 一、pandas骚操作系列
 
