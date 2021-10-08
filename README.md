@@ -3,9 +3,9 @@
 本项目分享 **Python 数据科学** 相关技术，包括`pandas`、`Numpy`、`Sklearn`、`Matplotlib`等各种基于Python的数据科学计算库的使用技巧。除常规方法以外，**还专门收集各种骚操作**，整理归纳成专题系列，在实战应用中用处很大。**我会逐渐完善它，持续输出中** ⚡
 
 
-原创文章每周最少一篇，后续最新文章会在【[Python数据科学](https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw) 】首发，大家可以加我【微信】进交流群，技术交流或提意见都可以，欢迎Star！
+原创文章每周最少一篇，后续最新文章会在【[Python数据科学](https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw) 】首发，大家可以加我【[微信](http://www.datadeepin.com/wp-content/uploads/2021/10/2021100816284068.png)】进交流群，技术交流或提意见都可以，欢迎Star！
 
-<center><div><img src="http://www.datadeepin.com/wp-content/uploads/2020/10/2020100803370481.jpg" /></div></center>
+<div><center><img src="http://www.datadeepin.com/wp-content/uploads/2020/10/2020100710282219.jpg" /></center></div>
 
 
 ## 一、pandas骚操作系列
