@@ -5,6 +5,9 @@
 
 原创文章每周最少一篇，后续最新文章会在【[Python数据科学](https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw) 】首发，大家可以加我【微信】进交流群，技术交流或提意见都可以，欢迎Star！
 
+<center><div><img src="http://www.datadeepin.com/wp-content/uploads/2020/10/Snipaste_2020-10-07_19-18-07-1.png" /></div></center>
+
+
 ## 一、pandas骚操作系列
 
 - [1. pandas骚操作01：变量自动转换](https://github.com/xiaoyusmd/PythonDataScience/blob/main/pands100-tricks/pandas100%E4%B8%AA%E9%AA%9A%E6%93%8D%E4%BD%9C%E4%B8%80%EF%BC%9A%E5%8F%98%E9%87%8F%E8%87%AA%E5%8A%A8%E8%BD%AC%E6%8D%A2.md)
