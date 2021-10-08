@@ -1,8 +1,9 @@
 ## 📚项目介绍
 
-- 本项目分享 **Python 数据科学** 相关技术，除常规方法，**还专门整理和积累骚操作**，包括`pandas`、`Numpy`、`Sklearn`、`Matplotlib`等流行 Python 库，在实战应用中帮助很大，**我会逐渐完善它，持续输出中！**⚡
-- 项目分享的内容会在微信公众号里：[Python数据科学](https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw) 第一时间发布，源码和数据可在GitHub目录里找到。
-- 该项目下所有专题系列均会整理成 PDF 电子书。
+本项目分享 **Python 数据科学** 相关技术，除常规方法，**还专门整理和积累骚操作**，包括`pandas`、`Numpy`、`Sklearn`、`Matplotlib`等流行 Python 库，在实战应用中帮助很大，**我会逐渐完善它，持续输出中** ⚡
+
+第一时间发布，源码和数据可在GitHub目录里找到。
+原创文章每周最少一篇，后续最新文章会在【[Python数据科学](https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw) 】首发，大家可以加我【微信】进交流群，技术交流或提意见都可以，欢迎Star！
 
 ## 一、pandas骚操作系列
 
