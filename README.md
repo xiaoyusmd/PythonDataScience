@@ -7,10 +7,11 @@
 
 <div align="center"><img src="http://www.datadeepin.com/wp-content/uploads/2020/10/2020100710282219.jpg" width="150" height="150"></div>
 
+<div>
 <a href="https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6-orange"></a>
 
-<a href="https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E4%B8%9C%E5%93%A5%E8%B5%B7%E9%A3%9E-blue"></a>
-
+<a href="https://www.zhihu.com/people/lu-yuan-86-37"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E4%B8%9C%E5%93%A5%E8%B5%B7%E9%A3%9E-blue"></a>
+</div>
 
 
 ## 一、pandas骚操作系列
