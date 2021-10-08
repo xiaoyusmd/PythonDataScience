@@ -1,20 +1,8 @@
-## 📝个人介绍
-
-我是东哥，一个数据科学爱好者，也是一个卷王。
-
-本科双非机械专业，心有不甘自学数据科学，转行至金融领域，目前担任风控模型专家。业余时间经营公众号：[Python数据科学](https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw) 分享技术干货，受大家博爱，目前已超过10万+的爱好者和同行们关注。
-
-<div align=center>
-<img src="http://www.datadeepin.com/wp-content/uploads/2020/10/2020100710282219.jpg" width="200" height="200" />
-</div>
-
-多年学习和从业让我积累了大量Python数据科学相关的技术，包括`pandas`、`Numpy`、`Sklearn`、`Matplotlib`等Python库的使用方法和技巧。这些总结不仅仅是帮助小白入门的，更有一些非常好用的技巧。决定将这些系列整理开源出来，供各位爱好者一起学习。
-
 ## 📚项目介绍
 
-本项目计划将个人整理和积累的相关技术和经验分享出来，希望给正在学习路上的小伙伴提供一些帮助⚡
-
-目录，待整理中。
+- 本项目分享 **Python 数据科学** 相关技术，除常规方法，**还专门整理和积累骚操作**，包括`pandas`、`Numpy`、`Sklearn`、`Matplotlib`等流行 Python 库，在实战应用中帮助很大，**我会逐渐完善它，持续输出中！**⚡
+- 项目分享的内容会在微信公众号里：[Python数据科学](https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw) 第一时间发布，源码和数据可在GitHub目录里找到。
+- 该项目下所有专题系列均会整理成 PDF 电子书。
 
 ## 一、pandas骚操作系列
 
