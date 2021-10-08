@@ -1,14 +1,14 @@
 ## 📝个人介绍
 
-我是东哥，一个平凡的数据科学爱好者。
+我是东哥，一个数据科学爱好者，也是一个卷王。
 
-自己本科原是机械专业，后爱上数据科学，自学`Python`和`数据分析`，然后转行到金融领域的风控建模岗位，目前担任风控模型专家。业余时间经营公众号：[Python数据科学](https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw) 分享技术干货，受大家博爱，目前有超过10万+的爱好者和同行们关注。
+本科双非机械专业，心有不甘自学数据科学，转行至金融领域，目前担任风控模型专家。业余时间经营公众号：[Python数据科学](https://mp.weixin.qq.com/s/QKGi7bO3mpCWmsFEwuFFTw) 分享技术干货，受大家博爱，目前已超过10万+的爱好者和同行们关注。
 
 <div align=center>
 <img src="http://www.datadeepin.com/wp-content/uploads/2020/10/2020100710282219.jpg" width="200" height="200" />
 </div>
 
-几年的从业经验，加上自我驱动学习，积累了大量Python数据科学技术和应用方法，包括`pandas`、`Numpy`、`Sklearn`、`Matplotlib`等Python库的使用方法和技巧。这些总结不仅仅是入门级的，更有一些不常见但很好用的tricks。决定将这些系列整理开源出来，供各位爱好者一起学习。
+多年学习和从业让我积累了大量Python数据科学相关的技术，包括`pandas`、`Numpy`、`Sklearn`、`Matplotlib`等Python库的使用方法和技巧。这些总结不仅仅是帮助小白入门的，更有一些非常好用的技巧。决定将这些系列整理开源出来，供各位爱好者一起学习。
 
 ## 📚项目介绍
 
