@@ -36,6 +36,6 @@
 
 敬请期待
 
-## 三、Matplotlib避坑指南
+## 四、Matplotlib避坑指南
 
 敬请期待
