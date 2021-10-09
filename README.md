@@ -17,12 +17,12 @@
 ## 一、pandas骚操作系列
 
 | 序号 |  pandas骚操作 | 公众号 | GitHub | 个人网站 |
-| :-----| ----: | :----: | :----: | :----: |
-| 1 | 变量类型自动转换 | [公众号](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515190&idx=5&sn=e243f5dd1b3d5414153f08929659ebdd&chksm=fad7cb3bcda0422d15fd04f9b8fc597e57680dc748ecb467cb3dcff4ed15ef61beca4060b63e&token=96258926&lang=zh_CN#rd) | [GitHub](https://github.com/xiaoyusmd/PythonDataScience/blob/main/pands100-tricks/pandas100%E4%B8%AA%E9%AA%9A%E6%93%8D%E4%BD%9C%E4%B8%80%EF%BC%9A%E5%8F%98%E9%87%8F%E8%87%AA%E5%8A%A8%E8%BD%AC%E6%8D%A2.md) | 个人网站 |
-| 2 | JSON自动解析为DataFrame | [公众号](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515278&idx=4&sn=9a494db829ebb0475f1a22a0902e30b5&chksm=fad7cb83cda0429542e0dcf9150476d7ec8c1669b01e09ddc1563c08866177a8073d89c9f7ba&token=96258926&lang=zh_CN#rd) |  | [GitHub](https://github.com/xiaoyusmd/PythonDataScience/blob/main/pands100-tricks/02_pandas100%E4%B8%AA%E9%AA%9A%E6%93%8D%E4%BD%9C%EF%BC%9AJSON%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90%E4%B8%BADataFrame.md) | 个人网站 |
+| :-----| :---- | :----: | :----: | :----: |
+| 1 | 骚操作（1）：变量类型自动转换 | [公众号](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515190&idx=5&sn=e243f5dd1b3d5414153f08929659ebdd&chksm=fad7cb3bcda0422d15fd04f9b8fc597e57680dc748ecb467cb3dcff4ed15ef61beca4060b63e&token=96258926&lang=zh_CN#rd) | [GitHub](https://github.com/xiaoyusmd/PythonDataScience/blob/main/pands100-tricks/pandas100%E4%B8%AA%E9%AA%9A%E6%93%8D%E4%BD%9C%E4%B8%80%EF%BC%9A%E5%8F%98%E9%87%8F%E8%87%AA%E5%8A%A8%E8%BD%AC%E6%8D%A2.md) | 个人网站 |
+| 2 | 骚操作（2）：JSON自动解析为DataFrame | [公众号](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515278&idx=4&sn=9a494db829ebb0475f1a22a0902e30b5&chksm=fad7cb83cda0429542e0dcf9150476d7ec8c1669b01e09ddc1563c08866177a8073d89c9f7ba&token=96258926&lang=zh_CN#rd) | [GitHub](https://github.com/xiaoyusmd/PythonDataScience/blob/main/pands100-tricks/02_pandas100%E4%B8%AA%E9%AA%9A%E6%93%8D%E4%BD%9C%EF%BC%9AJSON%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90%E4%B8%BADataFrame.md) | 个人网站 |
 
-<---
+<!--
 - [1. pandas骚操作01：变量自动转换](https://github.com/xiaoyusmd/PythonDataScience/blob/main/pands100-tricks/pandas100%E4%B8%AA%E9%AA%9A%E6%93%8D%E4%BD%9C%E4%B8%80%EF%BC%9A%E5%8F%98%E9%87%8F%E8%87%AA%E5%8A%A8%E8%BD%AC%E6%8D%A2.md)
 
 - [2. pandas骚操作02：JSON自动解析为DataFrame](https://github.com/xiaoyusmd/PythonDataScience/blob/main/pands100-tricks/02_pandas100%E4%B8%AA%E9%AA%9A%E6%93%8D%E4%BD%9C%EF%BC%9AJSON%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90%E4%B8%BADataFrame.md)
-->
+-->
