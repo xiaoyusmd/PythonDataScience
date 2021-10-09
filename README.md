@@ -26,3 +26,16 @@
 
 - [2. pandas骚操作02：JSON自动解析为DataFrame](https://github.com/xiaoyusmd/PythonDataScience/blob/main/pands100-tricks/02_pandas100%E4%B8%AA%E9%AA%9A%E6%93%8D%E4%BD%9C%EF%BC%9AJSON%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90%E4%B8%BADataFrame.md)
 -->
+
+
+## 二、Numpy使用指南
+
+敬请期待
+
+## 三、sklearn使用指南
+
+敬请期待
+
+## 三、Matplotlib避坑指南
+
+敬请期待
