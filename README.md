@@ -13,13 +13,14 @@
 <a href="https://www.zhihu.com/people/lu-yuan-86-37"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E4%B8%9C%E5%93%A5%E8%B5%B7%E9%A3%9E-blue" style="padding:0px;margin:0px;vertical-align:middle;"></a>
 </div>
 
+**由于整个内容较多，建议使用`ctrl+F`搜索关键词，快速找到你想要的答案！**
 
 ## 一、pandas骚操作系列
 
 | 序号 |  pandas骚操作 | 公众号 | GitHub | 个人网站 |
 | :-----| :---- | :----: | :----: | :----: |
 | 1 | 骚操作（1）：变量类型自动转换 | [公众号](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515190&idx=5&sn=e243f5dd1b3d5414153f08929659ebdd&chksm=fad7cb3bcda0422d15fd04f9b8fc597e57680dc748ecb467cb3dcff4ed15ef61beca4060b63e&token=96258926&lang=zh_CN#rd) | [GitHub](https://github.com/xiaoyusmd/PythonDataScience/blob/main/pands100-tricks/pandas100%E4%B8%AA%E9%AA%9A%E6%93%8D%E4%BD%9C%E4%B8%80%EF%BC%9A%E5%8F%98%E9%87%8F%E8%87%AA%E5%8A%A8%E8%BD%AC%E6%8D%A2.md) | 个人网站 |
-| 2 | 骚操作（2）：JSON自动解析为DataFrame | [公众号](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515278&idx=4&sn=9a494db829ebb0475f1a22a0902e30b5&chksm=fad7cb83cda0429542e0dcf9150476d7ec8c1669b01e09ddc1563c08866177a8073d89c9f7ba&token=96258926&lang=zh_CN#rd) | [GitHub](https://github.com/xiaoyusmd/PythonDataScience/blob/main/pands100-tricks/02_pandas100%E4%B8%AA%E9%AA%9A%E6%93%8D%E4%BD%9C%EF%BC%9AJSON%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90%E4%B8%BADataFrame.md) | 个人网站 |
+| 2 | 骚操作（2）：json 格式自动解析 | [公众号](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515278&idx=4&sn=9a494db829ebb0475f1a22a0902e30b5&chksm=fad7cb83cda0429542e0dcf9150476d7ec8c1669b01e09ddc1563c08866177a8073d89c9f7ba&token=96258926&lang=zh_CN#rd) | [GitHub](https://github.com/xiaoyusmd/PythonDataScience/blob/main/pands100-tricks/02_pandas100%E4%B8%AA%E9%AA%9A%E6%93%8D%E4%BD%9C%EF%BC%9AJSON%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90%E4%B8%BADataFrame.md) | 个人网站 |
 | 3 | 骚操作（3）：pandas 提速 315 倍技巧 | [公众号](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247517636&idx=2&sn=4225c9dcbd9604453620be5bbe6b76f8&chksm=fad7f2c9cda07bdf4b759ec1ac0e0c168538fc570c1c687679ffd1b54bfb850f2b8e0d4cd371&token=96258926&lang=zh_CN#rd) | [Github]() | [个人网站]() |
 | 4 | 骚操作（4）：accessor 的 3 种对象处理 | [公众号](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515842&idx=4&sn=34be3dc0fba154471eeac9f9f965e77b&chksm=fad7c9cfcda040d9128b22aebffd4d40a01eeeaa06dbb44f74cb7c963e136183727f766cec92&token=96258926&lang=zh_CN#rd) | [Github]() | [个人网站]() |
 | 5 | 骚操作（5）：transform 的 4 个妙用 | [公众号](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247516839&idx=2&sn=cc5f164ebeecff36f0f896682ae0c7ef&chksm=fad7f5aacda07cbcd77bcdc4666933c1224c6fda218b353f7c0238de4480dbedc9d48363c914&token=96258926&lang=zh_CN#rd) | [Github]() | [个人网站]() |
