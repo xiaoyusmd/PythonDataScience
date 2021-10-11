@@ -27,7 +27,7 @@
 | 6 | 骚操作（6）：concat 的 5 种使用姿势 | [公众号](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247531494&idx=2&sn=a162c9648b00137eddccf58b86b4e22a&chksm=fad70cebcda085fdb00c4430e081b480dd786ae5560c2746fe4cf46cc16912cb8f8c00463304&token=96258926&lang=zh_CN#rd) | [Github]() | [个人网站]() | [代码和数据]() |
 | 7 | 骚操作（7）：option 的 8 种常用设置 | [公众号](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247536448&idx=1&sn=a3ebeca4b6323976ba031b8a044b7887&chksm=fad7384dcda0b15b2b74dbe256a25a24704f691e2f5430cc4981aeaf618ba830caf920cdbc89&token=96258926&lang=zh_CN#rd) | [Github]() | [个人网站]() | [代码和数据]() |
 | 8 | 骚操作（8）：index 索引的 8 种设置和转换 | [公众号](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247541387&idx=1&sn=284be4571acaccd93744b8bdacea1eee&chksm=fad75586cda0dc903304b69db6a147f898ee24ab5766441a0e9d12bd8d5a7e206351cf6650d4&token=96258926&lang=zh_CN#rd) | [Github]() | [个人网站]() | [代码和数据]() |
-
+| 9 | 骚操作（9）：groupby 分组的 8 个常用技巧 | [公众号](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247525526&idx=1&sn=eef7f5dd9998e0f18dc527231e8820ad&chksm=fad7139bcda09a8d2d1cdef6efdae736e23259f9e35a332cb83f86a8f1d4707552dd3420538d&token=280933667&lang=zh_CN#rd) | [Github]() | [个人网站]() | [代码和数据]() |
 
 <!--
 - [1. pandas骚操作01：变量自动转换](https://github.com/xiaoyusmd/PythonDataScience/blob/main/pands100-tricks/pandas100%E4%B8%AA%E9%AA%9A%E6%93%8D%E4%BD%9C%E4%B8%80%EF%BC%9A%E5%8F%98%E9%87%8F%E8%87%AA%E5%8A%A8%E8%BD%AC%E6%8D%A2.md)
