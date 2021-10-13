@@ -39,10 +39,12 @@
 
 ## 二、数据科学实战项目
 
+### 1. 北京二手房房价预测
+
 | 序号 |  实战项目 | 公众号 | 个人网站 | 代码和数据 |
 | :-----| :---- | :----: | :----: | :----: |
-| 1 | 二手房房价预测数据分析篇 | [公众号](https://mp.weixin.qq.com/s/97OL4IqVIBP0PwGlYcUZvg) |  [个人网站]() | [代码和数据]() |
-| 2 | 二手房房价预测数据建模篇 | [公众号](https://mp.weixin.qq.com/s/6aCI9PABHZccThrGqak6Lg) |  [个人网站]() | [代码和数据]() |
+| 1 | 二手房房价预测（分析篇） | [公众号](https://mp.weixin.qq.com/s/97OL4IqVIBP0PwGlYcUZvg) |  [个人网站]() | [代码和数据]() |
+| 2 | 二手房房价预测（模型篇） | [公众号](https://mp.weixin.qq.com/s/6aCI9PABHZccThrGqak6Lg) |  [个人网站]() | [代码和数据]() |
 
 ## 三、Numpy使用指南
 
