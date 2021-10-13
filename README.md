@@ -37,15 +37,22 @@
 - [2. pandas骚操作02：JSON自动解析为DataFrame](https://github.com/xiaoyusmd/PythonDataScience/blob/main/pands100-tricks/02_pandas100%E4%B8%AA%E9%AA%9A%E6%93%8D%E4%BD%9C%EF%BC%9AJSON%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90%E4%B8%BADataFrame.md)
 -->
 
+## 二、数据科学实战项目
 
-## 二、Numpy使用指南
+| 序号 |  实战项目 | 公众号 | 个人网站 | 代码和数据 |
+| :-----| :---- | :----: | :----: | :----: | :----: |
+| 1 | 二手房房价预测数据分析篇 | [公众号](https://mp.weixin.qq.com/s/97OL4IqVIBP0PwGlYcUZvg) |  [个人网站]() | [代码和数据]() |
+| 2 | 二手房房价预测数据建模篇 | [公众号](https://mp.weixin.qq.com/s/6aCI9PABHZccThrGqak6Lg) |  [个人网站]() | [代码和数据]() |
+
+## 三、Numpy使用指南
+
+敬请期待
+
+## 四、sklearn使用指南
 
 敬请期待
 
-## 三、sklearn使用指南
+## 五、Matplotlib避坑指南
 
 敬请期待
 
-## 四、Matplotlib避坑指南
-
-敬请期待
