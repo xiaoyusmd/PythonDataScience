@@ -46,6 +46,12 @@
 | 1 | 二手房房价预测（分析篇） | [公众号](https://mp.weixin.qq.com/s/97OL4IqVIBP0PwGlYcUZvg) |  [个人网站]() | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%8C%97%E4%BA%AC%E4%BA%8C%E6%89%8B%E6%88%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B) |
 | 2 | 二手房房价预测（模型篇） | [公众号](https://mp.weixin.qq.com/s/6aCI9PABHZccThrGqak6Lg) |  [个人网站]() | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%8C%97%E4%BA%AC%E4%BA%8C%E6%89%8B%E6%88%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B) |
 
+### 2. 个人信贷违约预测
+| 序号 |  实战项目 | 公众号 | 个人网站 | 代码和数据 |
+| :-----| :---- | :----: | :----: | :----: |
+| 1 | 个人信贷违约预测 | [公众号](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247532265&idx=1&sn=786f5a0e0a2ac348e930af7458b50b5e&chksm=fad709e4cda080f21fdb036c78929f0da7c39764d8aeaa7135ba5aca70883502e55a73730105&token=1864535750&lang=zh_CN#rd) |  [个人网站]() | [代码和数据]() |
+
+
 ## 三、Numpy使用指南
 
 敬请期待
