@@ -1,1 +1,3 @@
-由于数据过大，保存在云盘上。请在微信公众号**Python数据科学**发送消息：**信贷**，获取下载链接。
+个人信贷违约预测数据：
+链接：https://pan.baidu.com/s/1PTrqY0nT-tqLqLgxRotZ2g 
+提取码：n0em
