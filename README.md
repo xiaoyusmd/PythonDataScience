@@ -51,6 +51,11 @@
 | :-----| :---- | :----: | :----: |
 | 1 | 个人信贷违约预测（完整讲解篇） | [公众号](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247532265&idx=1&sn=786f5a0e0a2ac348e930af7458b50b5e&chksm=fad709e4cda080f21fdb036c78929f0da7c39764d8aeaa7135ba5aca70883502e55a73730105&token=1864535750&lang=zh_CN#rd) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E8%B4%B7%E8%BF%9D%E7%BA%A6%E9%A2%84%E6%B5%8B) |
 
+### 3. 客户细分（层次聚类）
+| 序号 |  实战项目 | 公众号 | 代码和数据 |
+| :-----| :---- | :----: | :----: |
+| 1 | 客户细分聚类 | [公众号]() | [代码和数据]() |
+
 
 ## 三、Numpy使用指南
 
