@@ -56,4 +56,4 @@
 | :-----| :---- | :----: | :----: |
 | 1 | 客户细分聚类（理论+代码） | [公众号](https://mp.weixin.qq.com/s?__biz=MzU4OTQ1MTA4OQ==&mid=2247498295&idx=1&sn=299450d9b155fc65f18b4d82cad28349&chksm=fdcfe009cab8691f9dd3c4314f6c6b4a39a926cafe04a474595f65a625b1dfabe36eafdaf970&token=2122518345&lang=zh_CN#rd) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%B1%82%E6%AC%A1%E8%81%9A%E7%B1%BB%E5%AE%A2%E6%88%B7%E7%BB%86%E5%88%86) |
 
-持续更新中...
+持续更新中..
