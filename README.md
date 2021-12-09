@@ -40,7 +40,7 @@
 ## 二、数据科学实战项目
 
 | 序号 |  实战项目 | 模型 | 算法 | 公众号 | 代码和数据 |
-| :-----| :---- | :----: | :----: | :----: |
+| :-----| :---- | :----: | :----: | :----: | :----: |
 | 1 | 北京二手房房价预测（分析篇） | 树模型 | 决策树 | [公众号](https://mp.weixin.qq.com/s/97OL4IqVIBP0PwGlYcUZvg) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%8C%97%E4%BA%AC%E4%BA%8C%E6%89%8B%E6%88%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B) |
 | 2 | 北京二手房房价预测（模型篇） | 树模型 | 决策树 | [公众号](https://mp.weixin.qq.com/s/6aCI9PABHZccThrGqak6Lg) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%8C%97%E4%BA%AC%E4%BA%8C%E6%89%8B%E6%88%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B) |
 | 3 | 个人信贷违约预测（完整讲解篇） | 树模型 | XGBoost | [公众号](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247532265&idx=1&sn=786f5a0e0a2ac348e930af7458b50b5e&chksm=fad709e4cda080f21fdb036c78929f0da7c39764d8aeaa7135ba5aca70883502e55a73730105&token=1864535750&lang=zh_CN#rd) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E8%B4%B7%E8%BF%9D%E7%BA%A6%E9%A2%84%E6%B5%8B) |
