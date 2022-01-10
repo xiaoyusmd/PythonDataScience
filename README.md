@@ -39,9 +39,9 @@
 
 ## 二、pandas数据清洗系列
 
-| 序号 |  方法 | 公众号  | 代码和数据 |
+| 序号 |  清洗方法 | 公众号  | 代码和数据 |
 | :-----| :---- | :----: | :----: |
-| 1 | 数据缺失值处理 | [公众号](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515190&idx=5&sn=e243f5dd1b3d5414153f08929659ebdd&chksm=fad7cb3bcda0422d15fd04f9b8fc597e57680dc748ecb467cb3dcff4ed15ef61beca4060b63e&token=96258926&lang=zh_CN#rd) | [代码和数据]() |
+| 1 | 数据缺失值处理 | [公众号]() | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/pandas-cleanning) |
 
 ## 三、数据科学实战项目
 
