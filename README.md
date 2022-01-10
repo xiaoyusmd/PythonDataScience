@@ -37,7 +37,13 @@
 - [2. pandas骚操作02：JSON自动解析为DataFrame](https://github.com/xiaoyusmd/PythonDataScience/blob/main/pands100-tricks/02_pandas100%E4%B8%AA%E9%AA%9A%E6%93%8D%E4%BD%9C%EF%BC%9AJSON%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90%E4%B8%BADataFrame.md)
 -->
 
-## 二、数据科学实战项目
+## 二、pandas数据清洗系列
+
+| 序号 |  方法 | 公众号  | 代码和数据 |
+| :-----| :---- | :----: | :----: |
+| 1 | 数据缺失值处理 | [公众号](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515190&idx=5&sn=e243f5dd1b3d5414153f08929659ebdd&chksm=fad7cb3bcda0422d15fd04f9b8fc597e57680dc748ecb467cb3dcff4ed15ef61beca4060b63e&token=96258926&lang=zh_CN#rd) | [代码和数据]() |
+
+## 三、数据科学实战项目
 
 | 序号 |  实战项目 | 模型 | 算法 | 公众号 | 代码和数据 |
 | :-----| :---- | :----: | :----: | :----: | :----: |
