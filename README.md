@@ -43,6 +43,8 @@
 | :-----| :---- | :----: | :----: |
 | 1 | 缺失值处理 | [教程链接](https://mp.weixin.qq.com/s/tFD8CrsCd5O7cLyxxbSKdg) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/pandas-cleanning) |
 | 2 | 重复值处理 | [教程链接](https://mp.weixin.qq.com/s/zYLjeOs6tgxvAe4S5DHXAw) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/pandas-cleanning) |
+| 3 | 文本处理 | [教程链接](https://mp.weixin.qq.com/s/zYLjeOs6tgxvAe4S5DHXAw) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/pandas-cleanning) |
+
 ## 三、数据科学实战项目
 
 | 序号 |  实战项目 | 模型 | 算法 | 公众号 | 代码和数据 |
