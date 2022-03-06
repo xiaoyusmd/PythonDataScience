@@ -47,7 +47,7 @@
 
 ## 三、数据科学实战项目
 
-| 序号 |  实战项目 | 模型 | 算法 | 文字教程 | 代码和数据 | 更新状态 |
+| 序号 |  实战项目 | 模型 | 算法 | 公众号文字教程 | 代码和数据 | 更新状态 |
 | :-----| :---- | :----: | :----: | :----: | :----: | :----: |
 | 1 | 北京二手房房价预测（分析篇） | 树模型 | CART决策树 | [文字教程](https://mp.weixin.qq.com/s/97OL4IqVIBP0PwGlYcUZvg) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%8C%97%E4%BA%AC%E4%BA%8C%E6%89%8B%E6%88%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B) | ✅ |
 | 2 | 北京二手房房价预测（模型篇） | 树模型 | CART决策树 | [文字教程](https://mp.weixin.qq.com/s/6aCI9PABHZccThrGqak6Lg) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%8C%97%E4%BA%AC%E4%BA%8C%E6%89%8B%E6%88%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B) | ✅ |
