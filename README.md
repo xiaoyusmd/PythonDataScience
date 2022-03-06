@@ -15,9 +15,9 @@
 
 **由于整个内容较多，建议使用`ctrl+F`搜索关键词，快速找到你想要的答案！**
 
-### 1.pandas骚操作系列
+### 1. pandas骚操作系列
 
-| 序号 |  类别 | 公众号  | 代码和数据 | 更新状态 |
+| 序号 |  类别 | 公众号文字教程  | 代码和数据 | 更新状态 |
 | :-----| :---- | :----: | :----: | :----: |
 | 1 | dtype 变量类型自动转换 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515190&idx=5&sn=e243f5dd1b3d5414153f08929659ebdd&chksm=fad7cb3bcda0422d15fd04f9b8fc597e57680dc748ecb467cb3dcff4ed15ef61beca4060b63e&token=96258926&lang=zh_CN#rd) | [代码和数据]() | ✅ |
 | 2 | json 格式自动解析 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515278&idx=4&sn=9a494db829ebb0475f1a22a0902e30b5&chksm=fad7cb83cda0429542e0dcf9150476d7ec8c1669b01e09ddc1563c08866177a8073d89c9f7ba&token=96258926&lang=zh_CN#rd) | [代码和数据]() | ✅ |
@@ -37,7 +37,7 @@
 - [2. pandas骚操作02：JSON自动解析为DataFrame](https://github.com/xiaoyusmd/PythonDataScience/blob/main/pands100-tricks/02_pandas100%E4%B8%AA%E9%AA%9A%E6%93%8D%E4%BD%9C%EF%BC%9AJSON%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90%E4%B8%BADataFrame.md)
 -->
 
-### 2.pandas数据清洗系列
+### 2. pandas数据清洗系列
 
 | 序号 |  类别 | 公众号文字教程  | 代码和数据 | 更新状态 |
 | :-----| :---- | :----: | :----: | :----: |
@@ -47,7 +47,7 @@
 | 4 | 分类处理 |  |  | 待更新 |
 
 
-## 3.数据科学实战项目
+### 3. 数据科学实战项目
 
 | 序号 |  实战项目 | 模型算法 | 公众号文字教程 | 代码和数据 | 更新状态 |
 | :-----| :---- | :----: | :----: | :----: | :----: |
