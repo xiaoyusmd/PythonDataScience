@@ -17,18 +17,18 @@
 
 ## 一、pandas骚操作系列
 
-| 序号 |  pandas骚操作 | 公众号  | 代码和数据 |
-| :-----| :---- | :----: | :----: |
-| 1 | dtype 变量类型自动转换 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515190&idx=5&sn=e243f5dd1b3d5414153f08929659ebdd&chksm=fad7cb3bcda0422d15fd04f9b8fc597e57680dc748ecb467cb3dcff4ed15ef61beca4060b63e&token=96258926&lang=zh_CN#rd) | [代码和数据]() |
-| 2 | json 格式自动解析 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515278&idx=4&sn=9a494db829ebb0475f1a22a0902e30b5&chksm=fad7cb83cda0429542e0dcf9150476d7ec8c1669b01e09ddc1563c08866177a8073d89c9f7ba&token=96258926&lang=zh_CN#rd) | [代码和数据]() |
-| 3 | Numpy 矢量化加速技巧 | [文字教程](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247517636&idx=2&sn=4225c9dcbd9604453620be5bbe6b76f8&chksm=fad7f2c9cda07bdf4b759ec1ac0e0c168538fc570c1c687679ffd1b54bfb850f2b8e0d4cd371&token=96258926&lang=zh_CN#rd) | [代码和数据]() |
-| 4 | accessor 数据处理 | [文字教程](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515842&idx=4&sn=34be3dc0fba154471eeac9f9f965e77b&chksm=fad7c9cfcda040d9128b22aebffd4d40a01eeeaa06dbb44f74cb7c963e136183727f766cec92&token=96258926&lang=zh_CN#rd) | [代码和数据]() |
-| 5 | transform 数据转换技巧 | [文字教程](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247516839&idx=2&sn=cc5f164ebeecff36f0f896682ae0c7ef&chksm=fad7f5aacda07cbcd77bcdc4666933c1224c6fda218b353f7c0238de4480dbedc9d48363c914&token=96258926&lang=zh_CN#rd) | [代码和数据]() |
-| 6 | concat 数据拼接技巧 | [文字教程](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247531494&idx=2&sn=a162c9648b00137eddccf58b86b4e22a&chksm=fad70cebcda085fdb00c4430e081b480dd786ae5560c2746fe4cf46cc16912cb8f8c00463304&token=96258926&lang=zh_CN#rd) | [代码和数据]() |
-| 7 | set_option 全局设置技巧 | [文字教程](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247536448&idx=1&sn=a3ebeca4b6323976ba031b8a044b7887&chksm=fad7384dcda0b15b2b74dbe256a25a24704f691e2f5430cc4981aeaf618ba830caf920cdbc89&token=96258926&lang=zh_CN#rd) | [代码和数据]() |
-| 8 | index 索引设置方法 | [文字教程](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247541387&idx=1&sn=284be4571acaccd93744b8bdacea1eee&chksm=fad75586cda0dc903304b69db6a147f898ee24ab5766441a0e9d12bd8d5a7e206351cf6650d4&token=96258926&lang=zh_CN#rd) | [代码和数据]() |
-| 9 | groupby 分组技巧 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247525526&idx=1&sn=eef7f5dd9998e0f18dc527231e8820ad&chksm=fad7139bcda09a8d2d1cdef6efdae736e23259f9e35a332cb83f86a8f1d4707552dd3420538d&token=280933667&lang=zh_CN#rd) | [代码和数据]() |
-| 10 | explode 列转行技巧 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247525526&idx=1&sn=eef7f5dd9998e0f18dc527231e8820ad&chksm=fad7139bcda09a8d2d1cdef6efdae736e23259f9e35a332cb83f86a8f1d4707552dd3420538d&token=280933667&lang=zh_CN#rd) | [代码和数据]() |
+| 序号 |  pandas骚操作 | 公众号  | 代码和数据 | 更新状态 |
+| :-----| :---- | :----: | :----: | :----: |
+| 1 | dtype 变量类型自动转换 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515190&idx=5&sn=e243f5dd1b3d5414153f08929659ebdd&chksm=fad7cb3bcda0422d15fd04f9b8fc597e57680dc748ecb467cb3dcff4ed15ef61beca4060b63e&token=96258926&lang=zh_CN#rd) | [代码和数据]() | ✅ |
+| 2 | json 格式自动解析 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515278&idx=4&sn=9a494db829ebb0475f1a22a0902e30b5&chksm=fad7cb83cda0429542e0dcf9150476d7ec8c1669b01e09ddc1563c08866177a8073d89c9f7ba&token=96258926&lang=zh_CN#rd) | [代码和数据]() | ✅ |
+| 3 | Numpy 矢量化加速技巧 | [文字教程](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247517636&idx=2&sn=4225c9dcbd9604453620be5bbe6b76f8&chksm=fad7f2c9cda07bdf4b759ec1ac0e0c168538fc570c1c687679ffd1b54bfb850f2b8e0d4cd371&token=96258926&lang=zh_CN#rd) | [代码和数据]() | ✅ |
+| 4 | accessor 数据处理 | [文字教程](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515842&idx=4&sn=34be3dc0fba154471eeac9f9f965e77b&chksm=fad7c9cfcda040d9128b22aebffd4d40a01eeeaa06dbb44f74cb7c963e136183727f766cec92&token=96258926&lang=zh_CN#rd) | [代码和数据]() | ✅ |
+| 5 | transform 数据转换技巧 | [文字教程](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247516839&idx=2&sn=cc5f164ebeecff36f0f896682ae0c7ef&chksm=fad7f5aacda07cbcd77bcdc4666933c1224c6fda218b353f7c0238de4480dbedc9d48363c914&token=96258926&lang=zh_CN#rd) | [代码和数据]() | ✅ |
+| 6 | concat 数据拼接技巧 | [文字教程](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247531494&idx=2&sn=a162c9648b00137eddccf58b86b4e22a&chksm=fad70cebcda085fdb00c4430e081b480dd786ae5560c2746fe4cf46cc16912cb8f8c00463304&token=96258926&lang=zh_CN#rd) | [代码和数据]() | ✅ |
+| 7 | set_option 全局设置技巧 | [文字教程](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247536448&idx=1&sn=a3ebeca4b6323976ba031b8a044b7887&chksm=fad7384dcda0b15b2b74dbe256a25a24704f691e2f5430cc4981aeaf618ba830caf920cdbc89&token=96258926&lang=zh_CN#rd) | [代码和数据]() | ✅ |
+| 8 | index 索引设置方法 | [文字教程](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247541387&idx=1&sn=284be4571acaccd93744b8bdacea1eee&chksm=fad75586cda0dc903304b69db6a147f898ee24ab5766441a0e9d12bd8d5a7e206351cf6650d4&token=96258926&lang=zh_CN#rd) | [代码和数据]() | ✅ |
+| 9 | groupby 分组技巧 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247525526&idx=1&sn=eef7f5dd9998e0f18dc527231e8820ad&chksm=fad7139bcda09a8d2d1cdef6efdae736e23259f9e35a332cb83f86a8f1d4707552dd3420538d&token=280933667&lang=zh_CN#rd) | [代码和数据]() | ✅ |
+| 10 | explode 列转行技巧 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247525526&idx=1&sn=eef7f5dd9998e0f18dc527231e8820ad&chksm=fad7139bcda09a8d2d1cdef6efdae736e23259f9e35a332cb83f86a8f1d4707552dd3420538d&token=280933667&lang=zh_CN#rd) | [代码和数据]() | ✅ |
 
 
 <!--
@@ -47,12 +47,12 @@
 
 ## 三、数据科学实战项目
 
-| 序号 |  实战项目 | 模型 | 算法 | 公众号文字教程 | 代码和数据 | 更新状态 |
+| 序号 |  实战项目 | 模型算法 | 公众号文字教程 | 代码和数据 | 更新状态 |
 | :-----| :---- | :----: | :----: | :----: | :----: | :----: |
-| 1 | 北京二手房房价预测（分析篇） | 树模型 | CART决策树 | [文字教程](https://mp.weixin.qq.com/s/97OL4IqVIBP0PwGlYcUZvg) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%8C%97%E4%BA%AC%E4%BA%8C%E6%89%8B%E6%88%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B) | ✅ |
-| 2 | 北京二手房房价预测（模型篇） | 树模型 | CART决策树 | [文字教程](https://mp.weixin.qq.com/s/6aCI9PABHZccThrGqak6Lg) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%8C%97%E4%BA%AC%E4%BA%8C%E6%89%8B%E6%88%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B) | ✅ |
-| 3 | 个人信贷违约预测（完整讲解篇） | 树模型 | XGBoost | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247532265&idx=1&sn=786f5a0e0a2ac348e930af7458b50b5e&chksm=fad709e4cda080f21fdb036c78929f0da7c39764d8aeaa7135ba5aca70883502e55a73730105&token=1864535750&lang=zh_CN#rd) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E8%B4%B7%E8%BF%9D%E7%BA%A6%E9%A2%84%E6%B5%8B) | ✅ |
-| 4 | 客户细分聚类（理论+代码） | 聚类 | Hierarchical | [文字教程](https://mp.weixin.qq.com/s?__biz=MzU4OTQ1MTA4OQ==&mid=2247498295&idx=1&sn=299450d9b155fc65f18b4d82cad28349&chksm=fdcfe009cab8691f9dd3c4314f6c6b4a39a926cafe04a474595f65a625b1dfabe36eafdaf970&token=2122518345&lang=zh_CN#rd) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%B1%82%E6%AC%A1%E8%81%9A%E7%B1%BB%E5%AE%A2%E6%88%B7%E7%BB%86%E5%88%86) | ✅ |
-| 5 | 客户价值识别实现精准营销 | 聚类 | K-Means |  [文字教程](https://mp.weixin.qq.com/s/8K6E2pSprggKtd2GyoNrrQ) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%AE%A2%E6%88%B7%E4%BB%B7%E5%80%BC%E8%AF%86%E5%88%AB%E5%AE%9E%E7%8E%B0%E7%B2%BE%E5%87%86%E8%90%A5%E9%94%80) | ✅ |
+| 1 | 北京二手房房价预测（分析篇） | 决策树 | [文字教程](https://mp.weixin.qq.com/s/97OL4IqVIBP0PwGlYcUZvg) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%8C%97%E4%BA%AC%E4%BA%8C%E6%89%8B%E6%88%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B) | ✅ |
+| 2 | 北京二手房房价预测（模型篇） | 决策树 | [文字教程](https://mp.weixin.qq.com/s/6aCI9PABHZccThrGqak6Lg) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%8C%97%E4%BA%AC%E4%BA%8C%E6%89%8B%E6%88%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B) | ✅ |
+| 3 | 个人信贷违约预测（完整讲解篇） | XGBoost分类 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247532265&idx=1&sn=786f5a0e0a2ac348e930af7458b50b5e&chksm=fad709e4cda080f21fdb036c78929f0da7c39764d8aeaa7135ba5aca70883502e55a73730105&token=1864535750&lang=zh_CN#rd) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E8%B4%B7%E8%BF%9D%E7%BA%A6%E9%A2%84%E6%B5%8B) | ✅ |
+| 4 | 客户细分聚类（理论+代码） | 层次聚类 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzU4OTQ1MTA4OQ==&mid=2247498295&idx=1&sn=299450d9b155fc65f18b4d82cad28349&chksm=fdcfe009cab8691f9dd3c4314f6c6b4a39a926cafe04a474595f65a625b1dfabe36eafdaf970&token=2122518345&lang=zh_CN#rd) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%B1%82%E6%AC%A1%E8%81%9A%E7%B1%BB%E5%AE%A2%E6%88%B7%E7%BB%86%E5%88%86) | ✅ |
+| 5 | 客户价值识别实现精准营销 | K-Means聚类 |  [文字教程](https://mp.weixin.qq.com/s/8K6E2pSprggKtd2GyoNrrQ) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%AE%A2%E6%88%B7%E4%BB%B7%E5%80%BC%E8%AF%86%E5%88%AB%E5%AE%9E%E7%8E%B0%E7%B2%BE%E5%87%86%E8%90%A5%E9%94%80) | ✅ |
 
 持续更新..
