@@ -17,7 +17,7 @@
 
 ### 1.pandas骚操作系列
 
-| 序号 |  pandas骚操作 | 公众号  | 代码和数据 | 更新状态 |
+| 序号 |  类别 | 公众号  | 代码和数据 | 更新状态 |
 | :-----| :---- | :----: | :----: | :----: |
 | 1 | dtype 变量类型自动转换 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515190&idx=5&sn=e243f5dd1b3d5414153f08929659ebdd&chksm=fad7cb3bcda0422d15fd04f9b8fc597e57680dc748ecb467cb3dcff4ed15ef61beca4060b63e&token=96258926&lang=zh_CN#rd) | [代码和数据]() | ✅ |
 | 2 | json 格式自动解析 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247515278&idx=4&sn=9a494db829ebb0475f1a22a0902e30b5&chksm=fad7cb83cda0429542e0dcf9150476d7ec8c1669b01e09ddc1563c08866177a8073d89c9f7ba&token=96258926&lang=zh_CN#rd) | [代码和数据]() | ✅ |
@@ -39,11 +39,13 @@
 
 ### 2.pandas数据清洗系列
 
-| 序号 |  清洗方法 | 公众号文字教程  | 代码和数据 | 更新状态 |
+| 序号 |  类别 | 公众号文字教程  | 代码和数据 | 更新状态 |
 | :-----| :---- | :----: | :----: | :----: |
 | 1 | 缺失值处理 | [文字教程](https://mp.weixin.qq.com/s/tFD8CrsCd5O7cLyxxbSKdg) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/pandas-cleanning) | ✅ |
 | 2 | 重复值处理 | [文字教程](https://mp.weixin.qq.com/s/zYLjeOs6tgxvAe4S5DHXAw) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/pandas-cleanning) | ✅ |
 | 3 | 文本处理 | [文字教程](https://mp.weixin.qq.com/s/zYLjeOs6tgxvAe4S5DHXAw) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/pandas-cleanning) | ✅ |
+| 4 | 分类处理 |  |  | 待更新 |
+
 
 ## 3.数据科学实战项目
 
