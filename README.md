@@ -44,7 +44,7 @@
 | 1 | 缺失值处理 | [文字教程](https://mp.weixin.qq.com/s/tFD8CrsCd5O7cLyxxbSKdg) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/pandas-cleanning) | ✅ |
 | 2 | 重复值处理 | [文字教程](https://mp.weixin.qq.com/s/zYLjeOs6tgxvAe4S5DHXAw) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/pandas-cleanning) | ✅ |
 | 3 | 文本处理 | [文字教程](https://mp.weixin.qq.com/s/zYLjeOs6tgxvAe4S5DHXAw) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/pandas-cleanning) | ✅ |
-| 4 | 分类处理 |  |  | 待更新 |
+| 4 | 分类数据处理 |  | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/pandas-cleanning) | ✅ |
 
 
 ### 3. 数据科学实战项目
