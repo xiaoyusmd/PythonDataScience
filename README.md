@@ -29,6 +29,7 @@
 | 8 | index 索引设置方法 | [文字教程](http://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247541387&idx=1&sn=284be4571acaccd93744b8bdacea1eee&chksm=fad75586cda0dc903304b69db6a147f898ee24ab5766441a0e9d12bd8d5a7e206351cf6650d4&token=96258926&lang=zh_CN#rd) | [代码和数据]() | ✅ |
 | 9 | groupby 分组技巧 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247525526&idx=1&sn=eef7f5dd9998e0f18dc527231e8820ad&chksm=fad7139bcda09a8d2d1cdef6efdae736e23259f9e35a332cb83f86a8f1d4707552dd3420538d&token=280933667&lang=zh_CN#rd) | [代码和数据]() | ✅ |
 | 10 | explode 列转行技巧 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247525526&idx=1&sn=eef7f5dd9998e0f18dc527231e8820ad&chksm=fad7139bcda09a8d2d1cdef6efdae736e23259f9e35a332cb83f86a8f1d4707552dd3420538d&token=280933667&lang=zh_CN#rd) | [代码和数据]() | ✅ |
+| 11 |变量类型转换 | [文字教程](https://mp.weixin.qq.com/s/0n_HcuM5C7yuf40yHwJIYQ) | [代码和数据]() | ✅ |
 
 
 <!--
