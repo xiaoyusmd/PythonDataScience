@@ -52,8 +52,6 @@
 
 | 序号 |  实战项目 | 模型算法 | 公众号文字教程 | 代码和数据 | 更新状态 |
 | :-----| :---- | :----: | :----: | :----: | :----: |
-| 1 | 北京二手房房价预测（分析篇） | 决策树 | [文字教程](https://mp.weixin.qq.com/s/97OL4IqVIBP0PwGlYcUZvg) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%8C%97%E4%BA%AC%E4%BA%8C%E6%89%8B%E6%88%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B) | ✅ |
-| 2 | 北京二手房房价预测（模型篇） | 决策树 | [文字教程](https://mp.weixin.qq.com/s/6aCI9PABHZccThrGqak6Lg) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%8C%97%E4%BA%AC%E4%BA%8C%E6%89%8B%E6%88%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B) | ✅ |
 | 3 | 客户细分聚类（理论+代码） | 层次聚类 | [文字教程](https://mp.weixin.qq.com/s?__biz=MzU4OTQ1MTA4OQ==&mid=2247498295&idx=1&sn=299450d9b155fc65f18b4d82cad28349&chksm=fdcfe009cab8691f9dd3c4314f6c6b4a39a926cafe04a474595f65a625b1dfabe36eafdaf970&token=2122518345&lang=zh_CN#rd) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%B1%82%E6%AC%A1%E8%81%9A%E7%B1%BB%E5%AE%A2%E6%88%B7%E7%BB%86%E5%88%86) | ✅ |
 | 4 | 客户价值识别实现精准营销 | K-Means聚类 |  [文字教程](https://mp.weixin.qq.com/s/8K6E2pSprggKtd2GyoNrrQ) | [代码和数据](https://github.com/xiaoyusmd/PythonDataScience/tree/main/ds-projects/%E5%AE%A2%E6%88%B7%E4%BB%B7%E5%80%BC%E8%AF%86%E5%88%AB%E5%AE%9E%E7%8E%B0%E7%B2%BE%E5%87%86%E8%90%A5%E9%94%80) | ✅ |
 
